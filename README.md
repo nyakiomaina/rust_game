@@ -1,4 +1,4 @@
 # rust_game
-simple rust game
+Simple rust game
 This game creates a circle that can be moved around the screen using the arrow keys
-used ggez rust library
+Used ggez rust library
